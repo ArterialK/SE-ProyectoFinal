@@ -23,4 +23,6 @@ Materiales faltantes:
   - Segmento de RGB / 10 leds
   
   - Tierra
+
+  - Sensor de humedad
   
