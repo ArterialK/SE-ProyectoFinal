@@ -5,21 +5,22 @@ Facultad de Ingeniería UNAM
 Maceta Inteligente
 
 Materiales faltantes: 
-  Servo
+
+  - Servo
   
-  Sensor de temperatura
+  - Sensor de temperatura
   
-  Humidificador
+  - Humidificador
   
-  Dispensador de agua
+  - Dispensador de agua
   
-  Sensor de PH
+  - Sensor de PH
   
-  Maceta
+  - Maceta
   
-  Plantita
+  - Plantita
   
-  Segmento de RGB / 10 leds
+  - Segmento de RGB / 10 leds
   
-  Tierra
+  - Tierra
   
